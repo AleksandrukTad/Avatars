@@ -1,7 +1,7 @@
 # Avatars
 
 ## Description
-For this project I used my basic [boilerplate](https://github.com/AleksandrukTad/FullstackFramework) framework for TypeScript, Styled-components, NextJS, ReactJS and Jest. For state management I used Easy-peasy which is library that uses Redux, but handles all setup. 
+For this project I used my basic [boilerplate](https://github.com/AleksandrukTad/FullstackFramework) framework for TypeScript, Styled-components, NextJS, ReactJS and Jest. Unfortunatelly its not finished yet so you cannot build production, running development server works fine. For state management I used Easy-peasy which is library that uses Redux, but handles all setup. 
 
 ## Setup the project
 -Clone the repo <br />
